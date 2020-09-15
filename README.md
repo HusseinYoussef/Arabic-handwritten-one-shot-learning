@@ -11,7 +11,7 @@ Implementation of Siamese network for handwritten Arabic characters using Keras.
 * The validation was done using N-way one shot learning over 500 trials with N in range (2-12).
 * I have also tested it against Nearest neighbour.
 * The training and validation were done using GPU and Google Colab.
-* Accuracy is 92.8% for test data.
+* Model weights are available [here](https://drive.google.com/drive/folders/1I9ShCj0qp7-KhuXzGskhlY3JhPM852a-?usp=sharing) with 92.8% accuracy on test data.
 
 ![Plot](./Figures/plot.png)
 
